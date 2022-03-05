@@ -2,7 +2,7 @@ Eduard Petcu - 314CC
 
 ====================
 
-Problema 1:
+AutomaticallyFill:
 	Am citit cheia si textul iar apoi am verificat
 	daca acestea sunt valide. In cazul in care ambele
 	siruri contin doar litere, am aplicat functia de multiplicare.
@@ -18,7 +18,7 @@ Problema 1:
 
 ====================
 
-Problema 2:
+CifrulVigenere:
 	Datele de intrare au fost citite in functia *readstr care returneaza
 	textul formularului (care este de asemenea citit de la tastatura).
 	Am parcurs vectorul de campuri, iar pentru fiecare camp am verificat
@@ -39,7 +39,7 @@ Problema 2:
 
 ====================
 
-Problema 3:
+PasswordGenerator:
 	Am citit seed-ul si numarul de caractere si am generat sirul
 	folosind functia generare_paola. Am generat apoi cate un numar
 	de la 0 la 2 folosind functia rand() si seedul initial si am 
