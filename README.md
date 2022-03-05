@@ -38,6 +38,7 @@ Problema 2:
 	erorilor de memorie a durat 12 ore.
 
 ====================
+
 Problema 3:
 	Am citit seed-ul si numarul de caractere si am generat sirul
 	folosind functia generare_paola. Am generat apoi cate un numar
