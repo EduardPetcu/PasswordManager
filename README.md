@@ -2,7 +2,7 @@ Eduard Petcu - 314CC
 
 ====================
 
-AutomaticallyFill:
+CifrulVigenere:
 	Am citit cheia si textul iar apoi am verificat
 	daca acestea sunt valide. In cazul in care ambele
 	siruri contin doar litere, am aplicat functia de multiplicare.
@@ -18,7 +18,7 @@ AutomaticallyFill:
 
 ====================
 
-CifrulVigenere:
+AutomaticallyFill:
 	Datele de intrare au fost citite in functia *readstr care returneaza
 	textul formularului (care este de asemenea citit de la tastatura).
 	Am parcurs vectorul de campuri, iar pentru fiecare camp am verificat
